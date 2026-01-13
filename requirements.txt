@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 pandas==2.0.3
 scipy==1.11.1
 streamlit==1.25.0
 altair==5.0.1
+=======
+pandas==2.0.3
+scipy==1.11.1
+streamlit==1.25.0
+altair==5.0.1
+>>>>>>> 4937751 (Add Streamlit config and requirements for deployment)
 plotly==5.15.0
