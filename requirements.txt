@@ -1,16 +1,5 @@
-<<<<<<< HEAD
 pandas==2.0.3
-scipy==1.11.1
 streamlit==1.25.0
 altair==5.0.1
-=======
-pandas==2.0.3
-scipy==1.12.0
-streamlit==1.25.0
-altair==5.0.1
-<<<<<<< HEAD
->>>>>>> 4937751 (Add Streamlit config and requirements for deployment)
 plotly==5.15.0
-=======
-plotly==5.15.0
->>>>>>> 2f26d49 (Prepare project for Render deployment)
+scipy>=1.11.0,<1.12.0
