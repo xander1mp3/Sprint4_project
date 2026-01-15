@@ -1,0 +1,7 @@
+simulation of random events, and methods and libraries used to implement charts 
+for a dataset of cars, aka their condition, price, model year. 
+To access this you must open the repository and 
+pip install, pandas, streamlit, plotly.express and run it from their terminal.
+This will give you the ability to access this without my own local server.
+ it should look something like "http:0.0.0.0:10000" or
+"http:localhost:10000" directly.
